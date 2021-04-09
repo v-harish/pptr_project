@@ -6,3 +6,5 @@
 3) install dependencies: npm install mocha
 
 4)  the test script: npm run test
+
+5) To run the unit test in the jason package change the script as: "test": "mocha --timeout=10000 ./etoetesting"
