@@ -1,0 +1,19 @@
+{
+  "name": "pptr-project",
+  "version": "1.0.0",
+  "description": "Automation",
+  "main": "index.js",
+  "scripts": {
+ "test": "mocha --timeout=10000 ./etoetesting"
+  },
+  "keywords": [
+    "Automation"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.3.4",
+    "mocha": "^8.3.2",
+    "puppeteer": "^8.0.0"
+  }
+}
